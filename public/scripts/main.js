@@ -1,0 +1,1 @@
+"use strict";$(function(){$(".SendEmail").click(function(t){var a="sample@gmail.com",c="Test",i="Hi Sample,",o="path";document.location="mailto:"+a+"?subject="+c+"&body="+i+"?attach="+o})});
